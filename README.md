@@ -183,13 +183,13 @@ O assistente está totalmente integrado ao ecossistema Équilibra, oferecendo:
 Existem várias maneiras de editar a aplicação.
 
 **Usar o Lovable**
-Basta acessar o [Projeto no Lovable](https://lovable.dev/projects/5167591c-b831-4ac1-8852-78aa04fcfc21) e começar a enviar prompts.
+- Basta acessar o [Projeto no Lovable](https://lovable.dev/projects/5167591c-b831-4ac1-8852-78aa04fcfc21) e começar a enviar prompts.
 
 Alterações feitas pelo Lovable serão automaticamente commitadas para este repositório.
 
 
 **Usar sua IDE preferida**
-Se quiser trabalhar localmente usando sua própria IDE, você pode clonar este repositório e enviar (push) as alterações. As mudanças enviadas também serão refletidas no Lovable.
+- Se quiser trabalhar localmente usando sua própria IDE, você pode clonar este repositório e enviar (push) as alterações. As mudanças enviadas também serão refletidas no Lovable.
 
 O único requisito é ter Node.js e npm instalados — [instale com nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
